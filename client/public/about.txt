@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Fragment Mono
+- Font Author: undefined
+- Font Source: https://fonts.gstatic.com/s/fragmentmono/v4/4iCr6K5wfMRRjxp0DA6-2CLnN4RNh4UI_1U.ttf
+- Font License: undefined)

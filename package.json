@@ -1,0 +1,31 @@
+{
+  "name": "merng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index",
+    "start": "set SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
+    "build": "set SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
+    "dev": "react-scripts --openssl-legacy-provider start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.26.2",
+    "bcryptjs": "^2.4.3",
+    "crypto": "^1.0.1",
+    "graphql": "^14.3.1",
+    "jsonwebtoken": "^8.5.1",
+    "merng": "file:",
+    "mongoose": "^5.5.11",
+    "nodemailer": "^6.9.16",
+    "react-router-dom": "^7.0.2",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
